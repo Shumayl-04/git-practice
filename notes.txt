@@ -1,0 +1,3 @@
+Git is version control.
+
+Learning Git step by step.

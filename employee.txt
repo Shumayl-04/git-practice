@@ -1,0 +1,3 @@
+Name: Ali
+Department: IT
+Salary: 50000
